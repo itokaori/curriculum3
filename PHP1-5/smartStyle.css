@@ -1,0 +1,47 @@
+@media screen and (max-width: 479px) {
+    .header {
+        width: 200px;
+        height: 300px;
+        padding-top: 5px;
+    }
+    .header-box {
+        float: none;
+        height: 160px;
+        width: 60px;
+        margin-top: 20px;
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+    .h-box1, .h-box2, .h-box3 {
+        float: none;
+    }
+    .h-box2 {
+        position: absolute;
+        top: 60px;
+        right: 10px;
+    }
+    .h-box3 {
+        position: absolute;
+        top: 110px;
+        left: 10px;
+    }
+    
+    .contents {
+        width: 200px;
+    }
+    .left {
+        width: 200px;
+        height: 150px;
+    }
+    .right {
+        width: 200px;
+
+    }
+    .r-box1, .r-box2, .r-box3 {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    .footer {
+        width: 200px;
+    }
+}
